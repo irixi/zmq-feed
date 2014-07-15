@@ -1,0 +1,17 @@
+{
+  "name": "zmq-feed",
+  "version": "0.0.0",
+  "description": "ZMQ feed abstractor",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "dependencies": {
+    "zmq": "",
+    "node-uuid": "^1.4.1",
+    "debug": ""
+  },
+  "author": "Kim Forsman",
+  "readmeFilename": "README.md",
+  "license": "ISC"
+}
